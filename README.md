@@ -1,21 +1,13 @@
-# Hello World! 👋
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<div id="header" align="center">
+    <img src="[https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Zwd3V0OTIxbmVtYW82MmVjdzlycWVrNWhodHY5ODk3c2JlOXpyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnhpl4IeYgU7MCBdV2/giphy.gif)" width="300px"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+ ## 👨‍💻 Issam Guichana
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</div>
+<br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
-</div>
+
+### 🔥🔥🔥 My Stats 🔥🔥 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=issam-guichana&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
